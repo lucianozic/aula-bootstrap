@@ -1,7 +1,7 @@
 # Aula de Bootstrap com Rafael Galleani
-####Bootcamp Carrefour pela Digital Innovation One 
+#### Bootcamp Carrefour pela Digital Innovation One 
 
-######Grade:
+###### Grade:
 
 1. Utilizando Bootstrap
 2. Aprenda sobre o framework Bootstrap
@@ -11,6 +11,6 @@
 6. Crie lista de navegação com imagens em seu projeto
 7. Crie lista de navegação dentro de containers utilizando imagens
 
-**_4hs de curso_. **
+**_4hs de curso_.**
 
 _Nível Básico_.
